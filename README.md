@@ -84,7 +84,7 @@ In addition to the mandatory part files, you will turn in the following files:
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/yourusername/get_next_line.git
+git clone git@github.com:aabderrafie/get_next_line_42_Cursus.git
 cd get_next_line
 ```
 
