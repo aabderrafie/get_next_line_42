@@ -1,6 +1,3 @@
-Sure! Here is a polished and detailed README file for your Get Next Line project on GitHub:
-
----
 
 # Get Next Line
 
